@@ -1,3 +1,3 @@
 # my-first-repo
 ![foto van Senn](senn.jpeg)
-<img> src="senn.jpeg" alt="foto-van-senn" width="150"</img>
+<img src="senn.jpeg" alt="foto-van-senn" width="150">
